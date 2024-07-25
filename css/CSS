@@ -1,0 +1,15 @@
+#jumbotron {
+  background: url(images/jumbotron-bg.jpg) no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+}
+
+#main-content .row {
+  margin-top: 20px;
+}
+
+.menu-item {
+  margin-bottom: 20px;
+}
